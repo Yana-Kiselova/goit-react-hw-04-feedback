@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yana-Kiselova/goit-react-hw-04-feedback/static/css/main.aee78f64.css",
+    "main.js": "/Yana-Kiselova/goit-react-hw-04-feedback/static/js/main.5f113cda.js",
+    "index.html": "/Yana-Kiselova/goit-react-hw-04-feedback/index.html",
+    "main.aee78f64.css.map": "/Yana-Kiselova/goit-react-hw-04-feedback/static/css/main.aee78f64.css.map",
+    "main.5f113cda.js.map": "/Yana-Kiselova/goit-react-hw-04-feedback/static/js/main.5f113cda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee78f64.css",
+    "static/js/main.5f113cda.js"
+  ]
+}
